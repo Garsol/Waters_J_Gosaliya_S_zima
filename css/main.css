@@ -107,9 +107,13 @@ ul {
 li {
     margin: 70px auto;
     font-size: 40px;
+    color: #3F76BF;
 }
 
-
+ul li:hover {
+    border-bottom: solid 5px #3F76BF;
+    transition: .5s;
+}
 
 /* Specific to index page desktop  */
 
