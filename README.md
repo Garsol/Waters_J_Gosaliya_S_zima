@@ -12,7 +12,9 @@ This will be a promotional website based around the brand Zima, which we have re
 
 ## Credits
 
-Written by Jack Waters
+Written by Jack Waters & Gosaliya Sahilkumar
+
+Design by Gosaliya Sahilkumar
 
 ## License
 
